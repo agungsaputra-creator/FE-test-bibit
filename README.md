@@ -4,4 +4,4 @@ Untuk aplikasi sendiri saya menggunakan omdb api yang berbeda, karena api yang d
 Fitur yang ditampilkan:
 tampilan awal -> cari keyword minimal dengan menggunakan 3 kata, setelah itu akan muncul list yang akan dicari -> untuk melihat detail silahkan klik card.
 
-Rerimakasih atas waktu yang diberikan, semoga sesuai dengan yang diharapkan, dan apabila ada yang kurang mohon maaf dan akan saya perbaiki dikedepannya. Sekali terimakasih dan semoga kita dapat bekerja sama.
+Terimakasih atas waktu yang diberikan, semoga sesuai dengan yang diharapkan, dan apabila ada yang kurang mohon maaf dan akan saya perbaiki dikedepannya. Sekali terimakasih dan semoga kita dapat bekerja sama.
